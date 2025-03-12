@@ -6,7 +6,7 @@
 
 ## Outline | THE INTERFACE
 
-### PDF (1) | GETTING STARTED
+### Documentation (1) | GETTING STARTED
 
 1 Python UI Development
     
@@ -71,4 +71,62 @@
     5.2 - Conclusion
 
 ---
-FURTHER SECTIONS WILL BE AVILIABLE WITH COMPLETION OF THIS PREVIOUS SECTION.
+
+### Documentation (2) | TKINTER
+
+6 Widgets I
+
+    6.1 What are Widgets
+    6.2 Basic Widgets
+        6.2.1 Labels
+        6.2.2 Entries
+        6.2.3 Buttons
+
+7 Widgets II
+
+    7.1 Creating Widgets
+    7.2 Label
+    7.3 Entry | Spinbox
+    7.4 Button
+    7.5 Frame | Labelframe
+
+8 Event Handling
+
+    8.1 Binding Events
+    8.2 Keyboard and Mouse Events
+
+9 Layout Management
+
+    9.1 Pack
+    9.2 Grid
+    9.3 Place
+
+10 Widgets III
+
+    10.1 Text
+    10.2 Checkbutton & Radiobutton
+    10.3 Listbox
+    10.4 Scale
+    10.5 Menu | Menubutton
+    10.6 Scrollbar
+    10.7 OptionMenu
+    10.8 Messagebox
+    10.9 Combobox
+
+11 Advanced Widgets
+
+    11.1 Progressbar
+    11.2 Treeview
+    11.3 Notebox
+    11.4 Separator
+    11.5 Sizegrip
+    11.6 File Dialogs
+
+12 Advanced Topics
+
+    12.1 Clipboard Operations
+    12.2 Multithreading
+    12.3 Canvas Animations
+    12.4 Drag & Drop Functionality
+    12.5 Graph Embeddings
+    12.6 Database Integrations
