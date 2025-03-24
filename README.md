@@ -15,4 +15,4 @@
 ---
 
 ## Author
-(PyCODE)[https://www.py-code.in] | (@_py.code)[https://www.instagram.com/_py.code]
+[PyCODE](https://www.py-code.in) | [@_py.code](https://www.instagram.com/_py.code)
