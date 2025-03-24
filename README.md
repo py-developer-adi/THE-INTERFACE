@@ -6,11 +6,11 @@
 
 ## Outline | THE INTERFACE
 
-### Documentation (1) | GETTING STARTED
-### Documentation (2) | TKinter
-### Documentation (3) | TTKBootstrap
-### Documentation (4) | CustomTKinter
-### Documentation (5) | Real-World Projects
+- ### Documentation (1) | GETTING STARTED
+- ### Documentation (2) | TKinter
+- ### Documentation (3) | TTKBootstrap
+- ### Documentation (4) | CustomTKinter
+- ### Documentation (5) | Real-World Projects
 
 ---
 
