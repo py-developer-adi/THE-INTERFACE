@@ -2,7 +2,6 @@
 
 # ? Importing Libraries
 from tkinter import *
-from tkinter import simpledialog
 
 # ! The Root Window
 root = Tk()
@@ -18,20 +17,12 @@ def new_file():
 # & Save File Function
 def save_file():
     '''this function will save the file'''
-    filename = simpledialog.askstring(
-        "Save File",
-        "Enter the filename to save: "
-    )
 
 # & Open File Function
 def open_file():
     '''this fun
     ction will open a file'''
-    filename = simpledialog.askstring(
-        "Filename",
-        "Enter the filename to open: "
-    )
-
+    
 # | Menu
 menu = Menu(root)
 menu.add_command(
